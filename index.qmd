@@ -1,0 +1,41 @@
+::: {.columns}
+
+::: {.column width="35%"}
+
+![](images/profile.jpg){width=200px style="border-radius:20px;"}
+
+### Ekaterina Jürgens
+
+
+Postdoctoral Researcher  
+Economics Department  
+University of Mannheim  
+
+
+[Google Scholar](https://scholar.google.com/citations?user=CasHjUkAAAAJ&hl=en)  
+
+[ORCID](https://orcid.org/0000-0003-1193-7950)
+
+:::
+
+::: {.column width="65%"}
+
+## About me
+
+Hello there! My name is Ekaterina Jürgens and I am a macroeconomist.
+
+I completed my doctorate at the University of Bamberg. My dissertation, *Essays on the Political Economy of Public Investment and Debt*, received the Young Scholar Prize of the German Keynes Society (2026).
+
+I am currently a postdoctoral researcher at the University of Mannheim.
+
+In addition, I work at the Macroeconomic Policy Institute (IMK) of the Hans Böckler Foundation in Düsseldorf in a joint project estimating municipal infrastructure investment needs in cooperation with the German Institute for Urban Affairs (difu).
+
+## Research interests
+
+- Fiscal policy  
+- Public investment  
+- Macroeconomic modelling  
+- Empirical macroeconomics  
+:::
+
+:::
